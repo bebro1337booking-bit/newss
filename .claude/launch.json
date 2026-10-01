@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "news333",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8333", "--directory", "C:/Users/Raws/Desktop/news333"],
+      "port": 8333
+    }
+  ]
+}
